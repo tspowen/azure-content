@@ -1,0 +1,42 @@
+{
+  "build_entry_point": "docs.ps1",
+  "docsets_to_publish": [
+    {
+      "docset_name": "active-directory",
+      "build_source_folder": null,
+      "build_output_subfolder": "articles/active-directory",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content"
+      }
+    },
+	{
+      "docset_name": "multi-factor-authentication",
+      "build_source_folder": null,
+      "build_output_subfolder": "articles/multi-factor-authentication",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content"
+      }
+    },
+	{
+      "docset_name": "remoteapp",
+      "build_source_folder": null,
+      "build_output_subfolder": "articles/remoteapp",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content"
+      }
+    }
+  ],
+  "notification_subscribers": ["fenxu@microsoft.com"]
+}
