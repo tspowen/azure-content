@@ -5,8 +5,8 @@
 ## [What's coming?](remoteapp-roadmap.md)
 
 # Get started
-[Try RemoteApp in 3 minutes](remoteapp-threeminutes.md)
-[Try RemoteApp for 30 days](remoteapp-freetrial.md)
+## [Try RemoteApp in 3 minutes](remoteapp-threeminutes.md)
+## [Try RemoteApp for 30 days](remoteapp-freetrial.md)
 
 # Plan and design
 ## Will my app work?
