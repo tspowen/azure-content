@@ -42,5 +42,12 @@
       }
     }
   ],
-  "notification_subscribers": ["fenxu@microsoft.com"]
+  "notification_subscribers": [
+  	"fenxu@microsoft.com",
+  	"elizapo@microsoft.com",
+  	"Matthew.Baldwin@microsoft.com",
+  	"binliu@microsoft.com",
+  	"huxie@microsoft.com",
+  	"saldana@microsoft.com",
+  	"kenchen@microsoft.com"]
 }
