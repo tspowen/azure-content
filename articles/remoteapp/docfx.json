@@ -1,30 +1,31 @@
 {
-  "build": {
-    "content": [
-      {
-        "files": [
-          "**/*.md"
-        ],
-        "exclude": [
-          "**/obj/**"
-        ]
-      }
-    ],
-    "resource": [
-      {
-        "files": [
-          "media/**",
-          "_themes/**"
-        ],
-        "exclude": [
-          "**/obj/**",
-          "_themes/DocPacker/**"
-        ]
-      }
-    ],
-    "template": [
-      "docs.html"
-    ],
-    "dest": "articles/remoteapp"
-  }
+	"build": {
+		"content": [{
+			"files": [
+				"**/*.md"
+			],
+			"exclude": [
+				"**/obj/**"
+			]
+		}],
+		"resource": [{
+			"files": [
+				"media/**",
+				"_themes/**"
+			],
+			"exclude": [
+				"**/obj/**",
+				"_themes/DocPacker/**"
+			]
+		}],
+		"template": [
+			"docs.html"
+		],
+		"globalMetadata": {
+			"layout": "Conceptual",
+			"breadcrumb_path": "/EM/toc.json",
+			"ms.locale": "en-us"
+		},
+		"dest": "articles/remoteapp"
+	}
 }
